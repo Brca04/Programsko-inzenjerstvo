@@ -1,3 +1,0 @@
-# Programsko inženjerstvo
-ssir
-# Naslov
